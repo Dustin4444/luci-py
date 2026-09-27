@@ -12,7 +12,7 @@
   "dependencies": {
     "@chopsui/prpc-client": "~1.1.0",
     "@webcomponents/custom-elements": "^1.6.0",
-    "common-sk": "~3.1.0",
+    "common-sk": "~3.4.2",
     "elements-sk": "~2.4.2",
     "flatpickr": "^4.6.13",
     "google-charts": "^2.0.0",
