@@ -20,7 +20,7 @@
     "lit-html": "~1.0.0"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.8",
+    "autoprefixer": "^10.5.4",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.3.0",
     "babel-preset-env": "^1.7.0",
